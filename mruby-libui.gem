@@ -1,0 +1,6 @@
+name: mruby-libui
+description: LibUI class
+author: bamchoh
+website: https://github.com/bamchoh/mruby-libui
+protocol: git
+repository: https://github.com/bamchoh/mruby-libui.git
